@@ -2,12 +2,12 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541",
-"spider":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/0906.jar;md5;407f5087df6860f97af981e56848adb6",
+"spider":"https://agit.ai/long/CHild/raw/branch/master/0906.jar;md5;407f5087df6860f97af981e56848adb6",
 "sites": [
-{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/mwqgxx/gmx/raw/branch/main/vod/xx/02.txt","jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/bili.jar"},
-{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/mwqgxx/gmx/raw/branch/main/vod/xx/03.txt","jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/bili.jar"},
-{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/mwqgxx/gmx/raw/branch/main/vod/xx/04.txt","jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/bili.jar"},
-{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/mwqgxx/gmx/raw/branch/main/vod/xx/01.txt","jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/jar/bili.jar"}
+{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/CHild/raw/branch/master/02.txt","jar":"https://agit.ai/long/CHild/raw/branch/master/bili.jar"},
+{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/CHild/raw/branch/master/03.txt","jar":"https://agit.ai/long/CHild/raw/branch/master/bili.jar"},
+{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/CHild/raw/branch/master/04.txt","jar":"https://agit.ai/long/CHild/raw/branch/master/bili.jar"},
+{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/CHild/raw/branch/master/01.txt","jar":"https://agit.ai/long/CHild/raw/branch/master/bili.jar"}
 ],
 //解X设置
 "parses":[
